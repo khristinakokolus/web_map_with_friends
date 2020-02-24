@@ -15,7 +15,7 @@ Modules folium, flask, geopy have to be installed.
 
 
 ### Conclusion
-This web site helps to find the location of the Twitter users. 
+This web site helps to find the locations of the Twitter users. 
 
 ### Author 
 Khristina Kokolus
