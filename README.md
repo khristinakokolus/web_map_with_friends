@@ -8,7 +8,7 @@ This web site is used to find locations of user’s friends in Twitter. On this 
 Modules folium, flask, geopy have to be installed.
 
 
-### Examples of module’s work
+### Examples of website's work
 ![](web_site.png)
 ![](web_map1.png)
 ![](web_map2.png)
